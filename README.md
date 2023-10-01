@@ -6,7 +6,7 @@ With NER, key information is often extracted to learn what a given text is about
 
 NER is used in many applications across many domains. NER is extensively used in biomedical data. For instance, it is used for DNA identification, gene identification, and the identification of drug names and disease names. Figure 1 shows an example of a medical text-related NER that extracts symptoms, patient type, and dosage.
 
-![IMAGE_GIT](https://github.com/sohansai/named-entity-recognition/assets/76840110/6dd56fe0-123a-4777-a32c-beaeb867f687)
+![IMAGE_GIT](https://github.com/sohansai/named-entity-recognition/assets/76840110/ff42aac1-ec61-4f95-8381-e98eaaef452e)
 
 NER is also used for optimizing the search queries and ranking search results. It is sometimes combined with topic identification. NER is also used in machine translation.
 
